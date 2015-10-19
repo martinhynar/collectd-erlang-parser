@@ -1,3 +1,7 @@
+/rebar.lock
+/.idea
+/_build
+/collectd-erlang-parser.iml
 .eunit
 deps
 *.o
